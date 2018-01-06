@@ -854,6 +854,18 @@ pre code {
   font-weight: 700;
 }
 
+.sidebar-tagline {
+  font-size: 1.3rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+  padding: .5rem .5rem;
+  color: #fff;
+  font-weight: 200;
+  -webkit-transition: all .35s;
+  transition: all .35s;
+}
+
 .sidebar-social {
   text-align: center;
 }
