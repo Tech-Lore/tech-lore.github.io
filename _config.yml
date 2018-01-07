@@ -17,7 +17,7 @@ github: "Tech-Lore"
 email: "techlore@accel.ai"
 
 # Comments
-discus-identifier: # Add your Disqus identifier
+discus-identifier: "techlore-1"
 
 # Paginate
 paginate: 5
